@@ -52,3 +52,10 @@
 .lightText {
     color: #666;
 }
+
+.namesAndTitles {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1rem;
+    margin: 0;
+    color: rgb(155, 142, 142);
+}

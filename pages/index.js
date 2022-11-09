@@ -17,9 +17,9 @@ export default function Home({ allPostData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>next please</p>
+        <h3 className={utilStyles.namesAndTitles}>Keszler Barna, Software Developer Mentor, Budapest, HU</h3>
         <p>
-          more detailed hello
+          I am creating this blog, so that I dont get bored while holding workshops 😊
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
